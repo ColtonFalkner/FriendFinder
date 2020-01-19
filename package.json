@@ -1,14 +1,14 @@
 {
   "name": "FriendFinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fullstack app that helps you find your next best friend!",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Friend", "Finder", "Express", "Path"],
+  "author": "Colton Falkner",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
